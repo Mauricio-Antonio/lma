@@ -27,7 +27,7 @@
             Database: comments
                 Table:
                         Users;
-                        Description;
+                        Comments;
 
        API_Comments_Archicture
        config folder:
